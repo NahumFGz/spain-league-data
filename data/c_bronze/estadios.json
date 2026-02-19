@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "1",
+    "nombre_completo": "Camp Nou",
+    "aforo": "99354",
+    "inauguracion": "24/09/1957",
+    "arquitecto": "Francesc Mitjans",
+    "dimensiones": "105x68",
+    "localidad": "Barcelona (Barcelona)",
+    "url": "https://www.bdfutbol.com/es/s/1.html"
+  },
+  {
+    "id": "10",
+    "nombre_completo": "Estadio Ramón de Carranza",
+    "aforo": "20724",
+    "inauguracion": "02/09/1955",
+    "arquitecto": "Manuel Muñoz Monasterio",
+    "dimensiones": "105x66",
+    "localidad": "Cádiz (Cádiz)",
+    "url": "https://www.bdfutbol.com/es/s/10.html"
+  },
+  {
+    "id": "100354",
+    "nombre_completo": "Campo de San Juan",
+    "aforo": "20000",
+    "inauguracion": "21/05/1922",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "Pamplona (Navarra)",
+    "url": "https://www.bdfutbol.com/es/s/100354.html"
+  },
+  {
+    "id": "10470",
+    "nombre_completo": "Camp del Guinardó",
+    "aforo": "19000",
+    "inauguracion": "08/12/1923",
+    "arquitecto": "",
+    "dimensiones": "100x60",
+    "localidad": "Barcelona (Barcelona)",
+    "url": "https://www.bdfutbol.com/es/s/10470.html"
+  },
+  {
+    "id": "11",
+    "nombre_completo": "Estadio de Balaídos",
+    "aforo": "20739",
+    "inauguracion": "30/12/1928",
+    "arquitecto": "Jenaro de la Fuente Álvarez",
+    "dimensiones": "105x70",
+    "localidad": "Vigo (Pontevedra)",
+    "url": "https://www.bdfutbol.com/es/s/11.html"
+  },
+  {
+    "id": "12",
+    "nombre_completo": "Estadio Verónica Boquete de San Lázaro",
+    "aforo": "12000",
+    "inauguracion": "24/06/1993",
+    "arquitecto": "Andrés Fernández-Albalat Lois",
+    "dimensiones": "105x65",
+    "localidad": "Santiago de Compostela (A Coruña)",
+    "url": "https://www.bdfutbol.com/es/s/12.html"
+  },
+  {
+    "id": "13",
+    "nombre_completo": "Estadio Municipal de Riazor",
+    "aforo": "32490",
+    "inauguracion": "28/10/1944",
+    "arquitecto": "Santiago Rey Pedreira",
+    "dimensiones": "105x68",
+    "localidad": "A Coruña (A Coruña)",
+    "url": "https://www.bdfutbol.com/es/s/13.html"
+  },
+  {
+    "id": "13c",
+    "nombre_completo": "Parque de Deportes de Riazor",
+    "aforo": "15000",
+    "inauguracion": "16/05/1909",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "A Coruña (A Coruña)",
+    "url": "https://www.bdfutbol.com/es/s/13c.html"
+  },
+  {
+    "id": "14",
+    "nombre_completo": "RCDE Stadium",
+    "aforo": "37776",
+    "inauguracion": "02/08/2009",
+    "arquitecto": "Fenwick Iribarren",
+    "dimensiones": "105x68",
+    "localidad": "Cornellà de Llobregat (Barcelona)",
+    "url": "https://www.bdfutbol.com/es/s/14.html"
+  },
+  {
+    "id": "149",
+    "nombre_completo": "Estadio Príncipe Felipe",
+    "aforo": "7000",
+    "inauguracion": "26/03/1977",
+    "arquitecto": "José Julián Gutiérrez-Ulecia",
+    "dimensiones": "105x73",
+    "localidad": "Cáceres (Cáceres)",
+    "url": "https://www.bdfutbol.com/es/s/149.html"
+  },
+  {
+    "id": "14b",
+    "nombre_completo": "Campo del Patronato Obrero",
+    "aforo": "9000",
+    "inauguracion": "01/11/1918",
+    "arquitecto": "",
+    "dimensiones": "106x70",
+    "localidad": "Sevilla (Sevilla)",
+    "url": "https://www.bdfutbol.com/es/s/14b.html"
+  },
+  {
+    "id": "15",
+    "nombre_completo": "Estadio Francisco de la Hera",
+    "aforo": "11580",
+    "inauguracion": "12/10/1951",
+    "arquitecto": "Antonio Doménech Pastor",
+    "dimensiones": "105x69",
+    "localidad": "Almendralejo (Badajoz)",
+    "url": "https://www.bdfutbol.com/es/s/15.html"
+  },
+  {
+    "id": "15b",
+    "nombre_completo": "Estadio de Buenavista",
+    "aforo": "22000",
+    "inauguracion": "24/04/1932",
+    "arquitecto": "Ildefonso Sánchez del Río",
+    "dimensiones": "105x68",
+    "localidad": "Oviedo (Asturias)",
+    "url": "https://www.bdfutbol.com/es/s/15b.html"
+  },
+  {
+    "id": "16",
+    "nombre_completo": "Coliseum Alfonso Pérez",
+    "aforo": "16500",
+    "inauguracion": "30/08/1998",
+    "arquitecto": "",
+    "dimensiones": "105x70",
+    "localidad": "Getafe (Madrid)",
+    "url": "https://www.bdfutbol.com/es/s/16.html"
+  },
+  {
+    "id": "16b",
+    "nombre_completo": "Estadio de Nervión",
+    "aforo": "20000",
+    "inauguracion": "07/10/1928",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "Sevilla (Sevilla)",
+    "url": "https://www.bdfutbol.com/es/s/16b.html"
+  },
+  {
+    "id": "17",
+    "nombre_completo": "Nou Estadi",
+    "aforo": "15500",
+    "inauguracion": "02/02/1972",
+    "arquitecto": "Josep Maria Garreta",
+    "dimensiones": "103x67",
+    "localidad": "Tarragona (Tarragona)",
+    "url": "https://www.bdfutbol.com/es/s/17.html"
+  },
+  {
+    "id": "174",
+    "nombre_completo": "Juan Rojas",
+    "aforo": "3468",
+    "inauguracion": "1976",
+    "arquitecto": "",
+    "dimensiones": "110x68",
+    "localidad": "Almería (Almería)",
+    "url": "https://www.bdfutbol.com/es/s/174.html"
+  },
+  {
+    "id": "17b",
+    "nombre_completo": "Estadio de Bardín",
+    "aforo": "12000",
+    "inauguracion": "18/09/1932",
+    "arquitecto": "Juan Vidal",
+    "dimensiones": "",
+    "localidad": "Alicante (Alicante)",
+    "url": "https://www.bdfutbol.com/es/s/17b.html"
+  },
+  {
+    "id": "18",
+    "nombre_completo": "Estadio José Rico Pérez",
+    "aforo": "29800",
+    "inauguracion": "03/08/1974",
+    "arquitecto": "Francisco Muñoz Llorens",
+    "dimensiones": "105x69",
+    "localidad": "Alicante (Alicante)",
+    "url": "https://www.bdfutbol.com/es/s/18.html"
+  },
+  {
+    "id": "18b",
+    "nombre_completo": "Campo de fútbol de La Viña",
+    "aforo": "",
+    "inauguracion": "13/11/1965",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "Alicante (Alicante)",
+    "url": "https://www.bdfutbol.com/es/s/18b.html"
+  },
+  {
+    "id": "19",
+    "nombre_completo": "Estadio de Gran Canaria",
+    "aforo": "32392",
+    "inauguracion": "08/05/2003",
+    "arquitecto": "Pedro Medina",
+    "dimensiones": "105x68",
+    "localidad": "Las Palmas de Gran Canaria (Las Palmas)",
+    "url": "https://www.bdfutbol.com/es/s/19.html"
+  },
+  {
+    "id": "197",
+    "nombre_completo": "Estadio Municipal de Las Margaritas",
+    "aforo": "3000",
+    "inauguracion": "23/05/1905",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "Getafe (Madrid)",
+    "url": "https://www.bdfutbol.com/es/s/197.html"
+  },
+  {
+    "id": "2",
+    "nombre_completo": "Estadio Santiago Bernabéu",
+    "aforo": "78297",
+    "inauguracion": "27/10/1944",
+    "arquitecto": "Manuel Muñoz Monasterio",
+    "dimensiones": "105x68",
+    "localidad": "Madrid (Madrid)",
+    "url": "https://www.bdfutbol.com/es/s/2.html"
+  },
+  {
+    "id": "20",
+    "nombre_completo": "Estadi Ciutat de València",
+    "aforo": "24700",
+    "inauguracion": "29/09/1969",
+    "arquitecto": "Juan José Estellés",
+    "dimensiones": "107x69",
+    "localidad": "Valencia (Valencia)",
+    "url": "https://www.bdfutbol.com/es/s/20.html"
+  },
+  {
+    "id": "21",
+    "nombre_completo": "Camp d'Esports de Lleida",
+    "aforo": "13500",
+    "inauguracion": "01/01/1919",
+    "arquitecto": "Adolf Florensa",
+    "dimensiones": "102x68",
+    "localidad": "Lleida (Lleida)",
+    "url": "https://www.bdfutbol.com/es/s/21.html"
+  },
+  {
+    "id": "23",
+    "nombre_completo": "Estadio La Rosaleda",
+    "aforo": "30044",
+    "inauguracion": "14/09/1941",
+    "arquitecto": "José Seguí Pérez",
+    "dimensiones": "105x68",
+    "localidad": "Málaga (Málaga)",
+    "url": "https://www.bdfutbol.com/es/s/23.html"
+  },
+  {
+    "id": "24",
+    "nombre_completo": "Estadi Mallorca Son Moix",
+    "aforo": "25736",
+    "inauguracion": "21/08/1999",
+    "arquitecto": "Guillem Reynés Corbella",
+    "dimensiones": "105x68",
+    "localidad": "Palma (Islas Baleares)",
+    "url": "https://www.bdfutbol.com/es/s/24.html"
+  },
+  {
+    "id": "24b",
+    "nombre_completo": "Estadio Luis Sitjar",
+    "aforo": "18000",
+    "inauguracion": "23/09/1945",
+    "arquitecto": "Carlos Garau Tornabells",
+    "dimensiones": "103x69",
+    "localidad": "Palma (Islas Baleares)",
+    "url": "https://www.bdfutbol.com/es/s/24b.html"
+  },
+  {
+    "id": "25",
+    "nombre_completo": "Estadio Romano José Fouto",
+    "aforo": "14600",
+    "inauguracion": "24/05/1953",
+    "arquitecto": "",
+    "dimensiones": "106x70",
+    "localidad": "Mérida (Badajoz)",
+    "url": "https://www.bdfutbol.com/es/s/25.html"
+  },
+  {
+    "id": "26",
+    "nombre_completo": "Nuevo Estadio Los Pajaritos",
+    "aforo": "8261",
+    "inauguracion": "14/01/1999",
+    "arquitecto": "Javier Revillo",
+    "dimensiones": "103x70",
+    "localidad": "Soria (Soria)",
+    "url": "https://www.bdfutbol.com/es/s/26.html"
+  },
+  {
+    "id": "27",
+    "nombre_completo": "Estadio El Sadar",
+    "aforo": "23576",
+    "inauguracion": "02/09/1967",
+    "arquitecto": "Tomás Arrarás",
+    "dimensiones": "104x67",
+    "localidad": "Pamplona (Navarra)",
+    "url": "https://www.bdfutbol.com/es/s/27.html"
+  },
+  {
+    "id": "28",
+    "nombre_completo": "Estadio Carlos Tartiere",
+    "aforo": "30500",
+    "inauguracion": "20/09/2000",
+    "arquitecto": "Carlos Buxadé Ribot",
+    "dimensiones": "105x68",
+    "localidad": "Oviedo (Asturias)",
+    "url": "https://www.bdfutbol.com/es/s/28.html"
+  },
+  {
+    "id": "29",
+    "nombre_completo": "Campos de Sport de El Sardinero",
+    "aforo": "22514",
+    "inauguracion": "20/08/1988",
+    "arquitecto": "Juan José Arenas",
+    "dimensiones": "105x68",
+    "localidad": "Santander (Cantabria)",
+    "url": "https://www.bdfutbol.com/es/s/29.html"
+  },
+  {
+    "id": "29b",
+    "nombre_completo": "Campos de Sport de El Sardinero",
+    "aforo": "21800",
+    "inauguracion": "16/02/1913",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "Santander (Cantabria)",
+    "url": "https://www.bdfutbol.com/es/s/29b.html"
+  },
+  {
+    "id": "2b",
+    "nombre_completo": "Estadio Olímpico Lluís Companys",
+    "aforo": "56000",
+    "inauguracion": "20/05/1929",
+    "arquitecto": "Pere Domènech i Roura",
+    "dimensiones": "105x68",
+    "localidad": "Barcelona (Barcelona)",
+    "url": "https://www.bdfutbol.com/es/s/2b.html"
+  },
+  {
+    "id": "3",
+    "nombre_completo": "Estadio de Mendizorrotza",
+    "aforo": "19840",
+    "inauguracion": "27/04/1924",
+    "arquitecto": "",
+    "dimensiones": "105x67",
+    "localidad": "Vitoria-Gasteiz (Alava)",
+    "url": "https://www.bdfutbol.com/es/s/3.html"
+  },
+  {
+    "id": "30",
+    "nombre_completo": "Estadio de Anoeta",
+    "aforo": "40000",
+    "inauguracion": "29/07/1993",
+    "arquitecto": "",
+    "dimensiones": "105x70",
+    "localidad": "Donostia/San Sebastián (Gipuzkoa)",
+    "url": "https://www.bdfutbol.com/es/s/30.html"
+  },
+  {
+    "id": "30b",
+    "nombre_completo": "Estadio Municipal de Atocha",
+    "aforo": "16700",
+    "inauguracion": "04/10/1913",
+    "arquitecto": "",
+    "dimensiones": "105x68",
+    "localidad": "San Sebastián (Gipuzkoa)",
+    "url": "https://www.bdfutbol.com/es/s/30b.html"
+  },
+  {
+    "id": "31",
+    "nombre_completo": "Estadio Nuevo Colombino",
+    "aforo": "21670",
+    "inauguracion": "08/11/2001",
+    "arquitecto": "Joaquín Aramburu",
+    "dimensiones": "105x68",
+    "localidad": "Huelva (Huelva)",
+    "url": "https://www.bdfutbol.com/es/s/31.html"
+  },
+  {
+    "id": "318",
+    "nombre_completo": "Miniestadi",
+    "aforo": "15276",
+    "inauguracion": "23/09/1982",
+    "arquitecto": "Josep Casals",
+    "dimensiones": "103x65",
+    "localidad": "Barcelona (Barcelona)",
+    "url": "https://www.bdfutbol.com/es/s/318.html"
+  },
+  {
+    "id": "31b",
+    "nombre_completo": "Campo Avenida de Cataluña",
+    "aforo": "10000",
+    "inauguracion": "20/08/1922",
+    "arquitecto": "Josep Maria Jujol i Gibert",
+    "dimensiones": "",
+    "localidad": "Tarragona (Tarragona)",
+    "url": "https://www.bdfutbol.com/es/s/31b.html"
+  },
+  {
+    "id": "31c",
+    "nombre_completo": "Estadio Colombino",
+    "aforo": "13000",
+    "inauguracion": "06/09/1957",
+    "arquitecto": "Miguel Rodríguez Cordero y Ricardo Anadón Frutos",
+    "dimensiones": "110x65",
+    "localidad": "Huelva (Huelva)",
+    "url": "https://www.bdfutbol.com/es/s/31c.html"
+  },
+  {
+    "id": "32",
+    "nombre_completo": "Estadio Helmántico",
+    "aforo": "17341",
+    "inauguracion": "08/04/1970",
+    "arquitecto": "Antonio García",
+    "dimensiones": "105x72",
+    "localidad": "Villares de la Reina (Salamanca)",
+    "url": "https://www.bdfutbol.com/es/s/32.html"
+  },
+  {
+    "id": "33",
+    "nombre_completo": "Estadio Ramón Sánchez-Pizjuán",
+    "aforo": "43864",
+    "inauguracion": "07/09/1958",
+    "arquitecto": "Manuel Muñoz Monasterio",
+    "dimensiones": "105x68",
+    "localidad": "Sevilla (Sevilla)",
+    "url": "https://www.bdfutbol.com/es/s/33.html"
+  },
+  {
+    "id": "34",
+    "nombre_completo": "El Molinón - Enrique Castro Quini",
+    "aforo": "29371",
+    "inauguracion": "20/05/1908",
+    "arquitecto": "Miguel García de la Cruz",
+    "dimensiones": "105x68",
+    "localidad": "Gijón (Asturias)",
+    "url": "https://www.bdfutbol.com/es/s/34.html"
+  },
+  {
+    "id": "34b",
+    "nombre_completo": "El Choperal",
+    "aforo": "1000",
+    "inauguracion": "",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "Alcarràs (Lleida)",
+    "url": "https://www.bdfutbol.com/es/s/34b.html"
+  },
+  {
+    "id": "35",
+    "nombre_completo": "Heliodoro Rodríguez López",
+    "aforo": "23000",
+    "inauguracion": "25/07/1925",
+    "arquitecto": "Marrero Regalado",
+    "dimensiones": "107x70",
+    "localidad": "Santa Cruz de Tenerife (Santa Cruz de Tenerife)",
+    "url": "https://www.bdfutbol.com/es/s/35.html"
+  },
+  {
+    "id": "358",
+    "nombre_completo": "El Arcángel",
+    "aforo": "5425",
+    "inauguracion": "08/09/1945",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "Córdoba (Córdoba)",
+    "url": "https://www.bdfutbol.com/es/s/358.html"
+  },
+  {
+    "id": "35b",
+    "nombre_completo": "Estadio Insular",
+    "aforo": "22000",
+    "inauguracion": "25/12/1944",
+    "arquitecto": "Fernando Delgado",
+    "dimensiones": "105x68",
+    "localidad": "Las Palmas de Gran Canaria (Las Palmas)",
+    "url": "https://www.bdfutbol.com/es/s/35b.html"
+  },
+  {
+    "id": "36",
+    "nombre_completo": "Estadio de Mestalla",
+    "aforo": "55000",
+    "inauguracion": "20/05/1923",
+    "arquitecto": "Francisco Almenar Quinzá",
+    "dimensiones": "105x68",
+    "localidad": "Valencia (Valencia)",
+    "url": "https://www.bdfutbol.com/es/s/36.html"
+  },
+  {
+    "id": "37",
+    "nombre_completo": "Nuevo José Zorrilla",
+    "aforo": "27618",
+    "inauguracion": "20/02/1982",
+    "arquitecto": "Ricardo Soria",
+    "dimensiones": "105x65",
+    "localidad": "Valladolid (Valladolid)",
+    "url": "https://www.bdfutbol.com/es/s/37.html"
+  },
+  {
+    "id": "37c",
+    "nombre_completo": "Estadio Municipal José Zorrilla",
+    "aforo": "22000",
+    "inauguracion": "03/11/1940",
+    "arquitecto": "Miguel Baz García",
+    "dimensiones": "105x68",
+    "localidad": "Valladolid (Valladolid)",
+    "url": "https://www.bdfutbol.com/es/s/37c.html"
+  },
+  {
+    "id": "38",
+    "nombre_completo": "Estadio de la Cerámica",
+    "aforo": "23500",
+    "inauguracion": "17/06/1923",
+    "arquitecto": "César Azcárate",
+    "dimensiones": "105x68",
+    "localidad": "Vila-real (Castellón)",
+    "url": "https://www.bdfutbol.com/es/s/38.html"
+  },
+  {
+    "id": "387",
+    "nombre_completo": "Estadio Domecq",
+    "aforo": "13000",
+    "inauguracion": "19/04/1932",
+    "arquitecto": "Francisco Hernández-Rubio",
+    "dimensiones": "",
+    "localidad": "Jerez de la Frontera (Cádiz)",
+    "url": "https://www.bdfutbol.com/es/s/387.html"
+  },
+  {
+    "id": "39",
+    "nombre_completo": "Estadio de La Romareda",
+    "aforo": "33608",
+    "inauguracion": "08/09/1957",
+    "arquitecto": "Francisco Riestra",
+    "dimensiones": "107x68",
+    "localidad": "Zaragoza (Zaragoza)",
+    "url": "https://www.bdfutbol.com/es/s/39.html"
+  },
+  {
+    "id": "3b",
+    "nombre_completo": "Estadio de Chamartín",
+    "aforo": "25000",
+    "inauguracion": "17/05/1924",
+    "arquitecto": "José María Castell",
+    "dimensiones": "105x68",
+    "localidad": "Madrid (Madrid)",
+    "url": "https://www.bdfutbol.com/es/s/3b.html"
+  },
+  {
+    "id": "4",
+    "nombre_completo": "Estadio Carlos Belmonte",
+    "aforo": "17524",
+    "inauguracion": "09/09/1960",
+    "arquitecto": "Carlos Belmonte González",
+    "dimensiones": "105x68",
+    "localidad": "Albacete (Albacete)",
+    "url": "https://www.bdfutbol.com/es/s/4.html"
+  },
+  {
+    "id": "40",
+    "nombre_completo": "Estadio Nueva Condomina",
+    "aforo": "31012",
+    "inauguracion": "11/10/2006",
+    "arquitecto": "Jaime López-Amor",
+    "dimensiones": "107x72",
+    "localidad": "Murcia (Murcia)",
+    "url": "https://www.bdfutbol.com/es/s/40.html"
+  },
+  {
+    "id": "40b",
+    "nombre_completo": "Estadio La Condomina",
+    "aforo": "17500",
+    "inauguracion": "25/12/1924",
+    "arquitecto": "Justo Millán",
+    "dimensiones": "108x68",
+    "localidad": "Murcia (Murcia)",
+    "url": "https://www.bdfutbol.com/es/s/40b.html"
+  },
+  {
+    "id": "41",
+    "nombre_completo": "Estadio Castalia",
+    "aforo": "5150",
+    "inauguracion": "04/11/1945",
+    "arquitecto": "",
+    "dimensiones": "103x64",
+    "localidad": "Castelló de la Plana (Castellón)",
+    "url": "https://www.bdfutbol.com/es/s/41.html"
+  },
+  {
+    "id": "41b",
+    "nombre_completo": "Nou Castàlia",
+    "aforo": "15500",
+    "inauguracion": "17/06/1987",
+    "arquitecto": "Joaquín Tirado",
+    "dimensiones": "102x70",
+    "localidad": "Castelló de la Plana (Castellón)",
+    "url": "https://www.bdfutbol.com/es/s/41b.html"
+  },
+  {
+    "id": "42",
+    "nombre_completo": "Estadio Manuel Martínez Valero",
+    "aforo": "33732",
+    "inauguracion": "08/09/1976",
+    "arquitecto": "Juan Boix Matarredona",
+    "dimensiones": "108x70",
+    "localidad": "Elx (Alicante)",
+    "url": "https://www.bdfutbol.com/es/s/42.html"
+  },
+  {
+    "id": "422",
+    "nombre_completo": "Estadio Olímpico Camilo Cano",
+    "aforo": "5000",
+    "inauguracion": "25/08/2019",
+    "arquitecto": "",
+    "dimensiones": "105x68",
+    "localidad": "La Nucía (Alicante)",
+    "url": "https://www.bdfutbol.com/es/s/422.html"
+  },
+  {
+    "id": "42b",
+    "nombre_completo": "Estadio de Altabix",
+    "aforo": "15000",
+    "inauguracion": "17/10/1926",
+    "arquitecto": "",
+    "dimensiones": "105x65",
+    "localidad": "Elx (Alicante)",
+    "url": "https://www.bdfutbol.com/es/s/42b.html"
+  },
+  {
+    "id": "43",
+    "nombre_completo": "Estadio de los Juegos Mediterráneos",
+    "aforo": "18331",
+    "inauguracion": "31/07/2004",
+    "arquitecto": "",
+    "dimensiones": "105x68",
+    "localidad": "Almería (Almería)",
+    "url": "https://www.bdfutbol.com/es/s/43.html"
+  },
+  {
+    "id": "438",
+    "nombre_completo": "Estadio de Vallejo",
+    "aforo": "18000",
+    "inauguracion": "29/11/1925",
+    "arquitecto": "Mariano Peset",
+    "dimensiones": "110x64",
+    "localidad": "Valencia (Valencia)",
+    "url": "https://www.bdfutbol.com/es/s/438.html"
+  },
+  {
+    "id": "439",
+    "nombre_completo": "Las Gaunas",
+    "aforo": "14000",
+    "inauguracion": "15/06/1924",
+    "arquitecto": "",
+    "dimensiones": "104x66",
+    "localidad": "Logroño (La Rioja)",
+    "url": "https://www.bdfutbol.com/es/s/439.html"
+  },
+  {
+    "id": "44",
+    "nombre_completo": "Nova Creu Alta",
+    "aforo": "11981",
+    "inauguracion": "20/08/1967",
+    "arquitecto": "Gabriel Barcons",
+    "dimensiones": "103x70",
+    "localidad": "Sabadell (Barcelona)",
+    "url": "https://www.bdfutbol.com/es/s/44.html"
+  },
+  {
+    "id": "440",
+    "nombre_completo": "Campo del Sequiol",
+    "aforo": "6000",
+    "inauguracion": "03/11/1923",
+    "arquitecto": "",
+    "dimensiones": "105x69",
+    "localidad": "Castelló de la Plana (Castellón)",
+    "url": "https://www.bdfutbol.com/es/s/440.html"
+  },
+  {
+    "id": "445",
+    "nombre_completo": "Estadio de Torrero",
+    "aforo": "20000",
+    "inauguracion": "07/10/1923",
+    "arquitecto": "",
+    "dimensiones": "105x65",
+    "localidad": "Zaragoza (Zaragoza)",
+    "url": "https://www.bdfutbol.com/es/s/445.html"
+  },
+  {
+    "id": "44b",
+    "nombre_completo": "Creu Alta",
+    "aforo": "6000",
+    "inauguracion": "03/06/1906",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "Sabadell (Barcelona)",
+    "url": "https://www.bdfutbol.com/es/s/44b.html"
+  },
+  {
+    "id": "45b",
+    "nombre_completo": "Estadio El Vivero",
+    "aforo": "5000",
+    "inauguracion": "13/05/1909",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "Badajoz (Badajoz)",
+    "url": "https://www.bdfutbol.com/es/s/45b.html"
+  },
+  {
+    "id": "46",
+    "nombre_completo": "Estadio Bahrain Victorious Nuevo Arcángel",
+    "aforo": "21596",
+    "inauguracion": "07/11/1993",
+    "arquitecto": "Antonio González Cordón",
+    "dimensiones": "105x70",
+    "localidad": "Córdoba (Córdoba)",
+    "url": "https://www.bdfutbol.com/es/s/46.html"
+  },
+  {
+    "id": "47",
+    "nombre_completo": "Estadio Municipal de Ipurua",
+    "aforo": "8164",
+    "inauguracion": "14/09/1947",
+    "arquitecto": "",
+    "dimensiones": "103x65",
+    "localidad": "Eibar (Gipuzkoa)",
+    "url": "https://www.bdfutbol.com/es/s/47.html"
+  },
+  {
+    "id": "49",
+    "nombre_completo": "La Victoria",
+    "aforo": "11500",
+    "inauguracion": "1944",
+    "arquitecto": "",
+    "dimensiones": "103x68",
+    "localidad": "Jaén (Jaén)",
+    "url": "https://www.bdfutbol.com/es/s/49.html"
+  },
+  {
+    "id": "5",
+    "nombre_completo": "Estadio de Vallecas",
+    "aforo": "14708",
+    "inauguracion": "06/06/1976",
+    "arquitecto": "Emilio Garrido Ramírez",
+    "dimensiones": "100x67",
+    "localidad": "Madrid (Madrid)",
+    "url": "https://www.bdfutbol.com/es/s/5.html"
+  },
+  {
+    "id": "50",
+    "nombre_completo": "Butarque",
+    "aforo": "14500",
+    "inauguracion": "14/02/1998",
+    "arquitecto": "Y. León",
+    "dimensiones": "105x70",
+    "localidad": "Leganés (Madrid)",
+    "url": "https://www.bdfutbol.com/es/s/50.html"
+  },
+  {
+    "id": "53",
+    "nombre_completo": "Estadio Municipal de Chapín",
+    "aforo": "20523",
+    "inauguracion": "28/06/1988",
+    "arquitecto": "Cruz y Ortiz",
+    "dimensiones": "105x68",
+    "localidad": "Jerez de la Frontera (Cádiz)",
+    "url": "https://www.bdfutbol.com/es/s/53.html"
+  },
+  {
+    "id": "58",
+    "nombre_completo": "Estadio Municipal de Pasarón",
+    "aforo": "10541",
+    "inauguracion": "18/05/1905",
+    "arquitecto": "Emilio Quiroga Losada",
+    "dimensiones": "105x66",
+    "localidad": "Pontevedra (Pontevedra)",
+    "url": "https://www.bdfutbol.com/es/s/58.html"
+  },
+  {
+    "id": "59",
+    "nombre_completo": "Estadio Municipal Nuevo Los Cármenes",
+    "aforo": "19189",
+    "inauguracion": "16/05/1995",
+    "arquitecto": "Juan José Arenas de Pablo",
+    "dimensiones": "105x69",
+    "localidad": "Granada (Granada)",
+    "url": "https://www.bdfutbol.com/es/s/59.html"
+  },
+  {
+    "id": "59b",
+    "nombre_completo": "Estadio Los Cármenes",
+    "aforo": "22000",
+    "inauguracion": "23/12/1934",
+    "arquitecto": "Matías Fernández Fígares",
+    "dimensiones": "107x72",
+    "localidad": "Granada (Granada)",
+    "url": "https://www.bdfutbol.com/es/s/59b.html"
+  },
+  {
+    "id": "5b",
+    "nombre_completo": "Campo de Vallecas",
+    "aforo": "",
+    "inauguracion": "1928",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "Vallecas (Madrid)",
+    "url": "https://www.bdfutbol.com/es/s/5b.html"
+  },
+  {
+    "id": "6",
+    "nombre_completo": "Estadio de San Mamés",
+    "aforo": "39750",
+    "inauguracion": "21/08/1913",
+    "arquitecto": "Manuel María Smith",
+    "dimensiones": "105x68",
+    "localidad": "Bilbao (Bizkaia)",
+    "url": "https://www.bdfutbol.com/es/s/6.html"
+  },
+  {
+    "id": "61",
+    "nombre_completo": "Alfredo Di Stéfano",
+    "aforo": "6000",
+    "inauguracion": "09/05/2006",
+    "arquitecto": "Antonio Lamela Martínez",
+    "dimensiones": "105x68",
+    "localidad": "Madrid (Madrid)",
+    "url": "https://www.bdfutbol.com/es/s/61.html"
+  },
+  {
+    "id": "6b",
+    "nombre_completo": "Campo de Ibaiondo",
+    "aforo": "10000",
+    "inauguracion": "13/09/1925",
+    "arquitecto": "Manuel I. Galíndez",
+    "dimensiones": "105x65",
+    "localidad": "Leioa (Bizkaia)",
+    "url": "https://www.bdfutbol.com/es/s/6b.html"
+  },
+  {
+    "id": "6c",
+    "nombre_completo": "San Mamés",
+    "aforo": "53331",
+    "inauguracion": "16/09/2013",
+    "arquitecto": "César Azcárate",
+    "dimensiones": "105x68",
+    "localidad": "Bilbao (Bizkaia)",
+    "url": "https://www.bdfutbol.com/es/s/6c.html"
+  },
+  {
+    "id": "7",
+    "nombre_completo": "Estadio Riyadh Air Metropolitano",
+    "aforo": "70692",
+    "inauguracion": "04/09/1992",
+    "arquitecto": "Cruz y Ortiz",
+    "dimensiones": "105x68",
+    "localidad": "Madrid (Madrid)",
+    "url": "https://www.bdfutbol.com/es/s/7.html"
+  },
+  {
+    "id": "71",
+    "nombre_completo": "Estadio Johan Cruyff",
+    "aforo": "6000",
+    "inauguracion": "27/08/2019",
+    "arquitecto": "Battle i Roig",
+    "dimensiones": "105x68",
+    "localidad": "Sant Joan Despí (Barcelona)",
+    "url": "https://www.bdfutbol.com/es/s/71.html"
+  },
+  {
+    "id": "77",
+    "nombre_completo": "Estadi municipal de Vilatenim",
+    "aforo": "9472",
+    "inauguracion": "25/08/1986",
+    "arquitecto": "Enric Fita",
+    "dimensiones": "105x70",
+    "localidad": "Figueres (Girona)",
+    "url": "https://www.bdfutbol.com/es/s/77.html"
+  },
+  {
+    "id": "78",
+    "nombre_completo": "Montilivi",
+    "aforo": "14624",
+    "inauguracion": "14/08/1970",
+    "arquitecto": "Josep Ros",
+    "dimensiones": "105x68",
+    "localidad": "Girona (Girona)",
+    "url": "https://www.bdfutbol.com/es/s/78.html"
+  },
+  {
+    "id": "79",
+    "nombre_completo": "El Alcoraz",
+    "aforo": "9128",
+    "inauguracion": "16/01/1972",
+    "arquitecto": "Raimundo Bambó Mompradé",
+    "dimensiones": "105x68",
+    "localidad": "Huesca (Huesca)",
+    "url": "https://www.bdfutbol.com/es/s/79.html"
+  },
+  {
+    "id": "7b",
+    "nombre_completo": "Estadi de Sarrià",
+    "aforo": "44000",
+    "inauguracion": "18/02/1923",
+    "arquitecto": "Matías Colmenares",
+    "dimensiones": "105x70",
+    "localidad": "Barcelona (Barcelona)",
+    "url": "https://www.bdfutbol.com/es/s/7b.html"
+  },
+  {
+    "id": "7c",
+    "nombre_completo": "Estadio Vicente Calderón",
+    "aforo": "54907",
+    "inauguracion": "02/10/1966",
+    "arquitecto": "Javier Barroso",
+    "dimensiones": "105x68",
+    "localidad": "Madrid (Madrid)",
+    "url": "https://www.bdfutbol.com/es/s/7c.html"
+  },
+  {
+    "id": "8",
+    "nombre_completo": "Estadio Benito Villamarín",
+    "aforo": "60721",
+    "inauguracion": "17/03/1929",
+    "arquitecto": "Antonio Illanes del Río",
+    "dimensiones": "105x68",
+    "localidad": "Sevilla (Sevilla)",
+    "url": "https://www.bdfutbol.com/es/s/8.html"
+  },
+  {
+    "id": "83",
+    "nombre_completo": "Camp de Les Corts",
+    "aforo": "60000",
+    "inauguracion": "20/05/1922",
+    "arquitecto": "Santiago Mestres i Josep Alemany",
+    "dimensiones": "101x62",
+    "localidad": "Barcelona (Barcelona)",
+    "url": "https://www.bdfutbol.com/es/s/83.html"
+  },
+  {
+    "id": "84b",
+    "nombre_completo": "",
+    "aforo": "",
+    "inauguracion": "",
+    "arquitecto": "",
+    "dimensiones": "",
+    "localidad": "León (León)",
+    "url": "https://www.bdfutbol.com/es/s/84b.html"
+  },
+  {
+    "id": "84c",
+    "nombre_completo": "Estadio Municipal Antonio Amilivia",
+    "aforo": "12844",
+    "inauguracion": "23/10/1955",
+    "arquitecto": "",
+    "dimensiones": "105x70",
+    "localidad": "León (León)",
+    "url": "https://www.bdfutbol.com/es/s/84c.html"
+  },
+  {
+    "id": "85",
+    "nombre_completo": "Stade Saniat Rmel",
+    "aforo": "10000",
+    "inauguracion": "1913",
+    "arquitecto": "Marqués de Varela",
+    "dimensiones": "",
+    "localidad": "Tetuán (Marruecos)",
+    "url": "https://www.bdfutbol.com/es/s/85.html"
+  },
+  {
+    "id": "86",
+    "nombre_completo": "Estadio El Collao",
+    "aforo": "4850",
+    "inauguracion": "1921",
+    "arquitecto": "",
+    "dimensiones": "102x63",
+    "localidad": "Alcoi (Alicante)",
+    "url": "https://www.bdfutbol.com/es/s/86.html"
+  },
+  {
+    "id": "88",
+    "nombre_completo": "Stadium Gal",
+    "aforo": "6344",
+    "inauguracion": "19/09/1926",
+    "arquitecto": "Carlos Agirretxe",
+    "dimensiones": "100x67",
+    "localidad": "Irún (Gipuzkoa)",
+    "url": "https://www.bdfutbol.com/es/s/88.html"
+  },
+  {
+    "id": "8b",
+    "nombre_completo": "Stadium Metropolitano",
+    "aforo": "35800",
+    "inauguracion": "13/05/1923",
+    "arquitecto": "José María Castell",
+    "dimensiones": "105x67",
+    "localidad": "Madrid (Madrid)",
+    "url": "https://www.bdfutbol.com/es/s/8b.html"
+  },
+  {
+    "id": "8c",
+    "nombre_completo": "Estadio La Cartuja",
+    "aforo": "72000",
+    "inauguracion": "05/05/1999",
+    "arquitecto": "Antonio Cruz Villalón",
+    "dimensiones": "105x68",
+    "localidad": "Sevilla (Sevilla)",
+    "url": "https://www.bdfutbol.com/es/s/8c.html"
+  },
+  {
+    "id": "9",
+    "nombre_completo": "Estadio Municipl de El Plantío",
+    "aforo": "14500",
+    "inauguracion": "13/09/1964",
+    "arquitecto": "Martín Tárrega",
+    "dimensiones": "105x70",
+    "localidad": "Burgos (Burgos)",
+    "url": "https://www.bdfutbol.com/es/s/9.html"
+  }
+]
