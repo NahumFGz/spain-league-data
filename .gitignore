@@ -1,3 +1,9 @@
+# Large files and directories
+data/b_staging/estadios_arbitros_partidos/arbitros/
+data/b_staging/estadios_arbitros_partidos/partidos/
+data/b_staging/estadios_arbitros_partidos/estadios/
+data/b_staging/estadios_arbitros_partidos/*.zip
+
 # Env
 .env
 
