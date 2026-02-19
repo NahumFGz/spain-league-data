@@ -47,6 +47,26 @@ def _id_partido_desde_url(href: str) -> int | None:
     return int(id_val) if id_val and str(id_val).isdigit() else None
 
 
+def _id_estadio_desde_url(href: str) -> str | None:
+    """Extrae el id del estadio desde la URL (p. ej. s/43.html -> "43", s/6b.html -> "6b")."""
+    if not href or not href.strip():
+        return None
+    path = urlparse(href.strip()).path
+    nombre = path.rstrip("/").split("/")[-1]
+    stem = nombre.replace(".html", "").strip()
+    return stem if stem else None
+
+
+def _id_arbitro_desde_url(href: str) -> str | None:
+    """Extrae el id del árbitro desde la URL (p. ej. r/r600379.html -> "r600379")."""
+    if not href or not href.strip():
+        return None
+    path = urlparse(href.strip()).path
+    nombre = path.rstrip("/").split("/")[-1]
+    stem = nombre.replace(".html", "").strip()
+    return stem if stem else None
+
+
 def _url_absoluta_bdfutbol(href: str) -> str:
     """Convierte un href relativo de BDFutbol (p. ej. ../r/r600379.html) a URL absoluta."""
     if not href or not href.strip():
@@ -125,8 +145,10 @@ def extraer_tabla_resultados(html_path: Path) -> list[dict] | None:
         arbitro = _texto_celda(arbitro_el)
         href_estadio = estadio_el.get("href", "").strip() if estadio_el.name == "a" else ""
         estadio_url = _url_absoluta_bdfutbol(href_estadio) or None if href_estadio else None
+        id_estadio = _id_estadio_desde_url(href_estadio)
         href_arbitro = arbitro_el.get("href", "").strip() if arbitro_el.name == "a" else ""
         arbitro_url = _url_absoluta_bdfutbol(href_arbitro) or None if href_arbitro else None
+        id_arbitro = _id_arbitro_desde_url(href_arbitro)
 
         resultado.append(
             {
@@ -139,8 +161,10 @@ def extraer_tabla_resultados(html_path: Path) -> list[dict] | None:
                 "goles_local": goles_local,
                 "goles_visitante": goles_visitante,
                 "estadio": estadio,
+                "id_estadio": id_estadio,
                 "estadio_url": estadio_url,
                 "arbitro": arbitro,
+                "id_arbitro": id_arbitro,
                 "arbitro_url": arbitro_url or None,
             }
         )

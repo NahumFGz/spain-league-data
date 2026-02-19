@@ -1,0 +1,12 @@
+{
+  "id_partido": "3000",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=3000",
+  "equipo_local": "Atlético de Bilbao",
+  "equipo_visitante": "Barcelona",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e6.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e1.html",
+  "id_equipo_local": "e6",
+  "id_equipo_visitante": "e1",
+  "resultado_local": 3,
+  "resultado_visitante": 1
+}

@@ -1,0 +1,12 @@
+{
+  "id_partido": "12",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=12",
+  "equipo_local": "Español",
+  "equipo_visitante": "Europa",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e14.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e89.html",
+  "id_equipo_local": "e14",
+  "id_equipo_visitante": "e89",
+  "resultado_local": 3,
+  "resultado_visitante": 1
+}

@@ -1,0 +1,12 @@
+{
+  "id_partido": "660",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=660",
+  "equipo_local": "Arenas de Guecho",
+  "equipo_visitante": "Madrid",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e87.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e2.html",
+  "id_equipo_local": "e87",
+  "id_equipo_visitante": "e2",
+  "resultado_local": 1,
+  "resultado_visitante": 2
+}

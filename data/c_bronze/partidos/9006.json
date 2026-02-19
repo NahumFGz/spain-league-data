@@ -1,0 +1,12 @@
+{
+  "id_partido": "9006",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=9006",
+  "equipo_local": "Elche",
+  "equipo_visitante": "Zaragoza",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e42.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e39.html",
+  "id_equipo_local": "e42",
+  "id_equipo_visitante": "e39",
+  "resultado_local": 1,
+  "resultado_visitante": 1
+}

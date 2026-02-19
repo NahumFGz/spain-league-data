@@ -1,0 +1,12 @@
+{
+  "id_partido": "66",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=66",
+  "equipo_local": "Real Unión",
+  "equipo_visitante": "Arenas de Guecho",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e88.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e87.html",
+  "id_equipo_local": "e88",
+  "id_equipo_visitante": "e87",
+  "resultado_local": 7,
+  "resultado_visitante": 1
+}

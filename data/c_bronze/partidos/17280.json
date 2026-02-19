@@ -1,0 +1,12 @@
+{
+  "id_partido": "17280",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=17280",
+  "equipo_local": "Barcelona",
+  "equipo_visitante": "Valladolid",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e1.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e37.html",
+  "id_equipo_local": "e1",
+  "id_equipo_visitante": "e37",
+  "resultado_local": 0,
+  "resultado_visitante": 0
+}

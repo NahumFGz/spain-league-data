@@ -1,0 +1,12 @@
+{
+  "id_partido": "10240",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=10240",
+  "equipo_local": "Murcia",
+  "equipo_visitante": "CD Málaga",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e40.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e175.html",
+  "id_equipo_local": "e40",
+  "id_equipo_visitante": "e175",
+  "resultado_local": 0,
+  "resultado_visitante": 0
+}

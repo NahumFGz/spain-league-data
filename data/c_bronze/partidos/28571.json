@@ -1,0 +1,12 @@
+{
+  "id_partido": "28571",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=28571",
+  "equipo_local": "Deportivo de La Coruña",
+  "equipo_visitante": "Real Madrid",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e13.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e2.html",
+  "id_equipo_local": "e13",
+  "id_equipo_visitante": "e2",
+  "resultado_local": 0,
+  "resultado_visitante": 2
+}

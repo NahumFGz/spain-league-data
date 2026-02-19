@@ -1,0 +1,12 @@
+{
+  "id_partido": "1331",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=1331",
+  "equipo_local": "Zaragoza",
+  "equipo_visitante": "Murcia",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e39.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e40.html",
+  "id_equipo_local": "e39",
+  "id_equipo_visitante": "e40",
+  "resultado_local": 2,
+  "resultado_visitante": 1
+}

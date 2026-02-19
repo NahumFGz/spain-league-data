@@ -1,0 +1,12 @@
+{
+  "id_partido": "9450",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=9450",
+  "equipo_local": "Valencia",
+  "equipo_visitante": "Granada",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e36.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e59.html",
+  "id_equipo_local": "e36",
+  "id_equipo_visitante": "e59",
+  "resultado_local": 2,
+  "resultado_visitante": 1
+}

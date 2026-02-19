@@ -9,8 +9,10 @@
     "goles_local": 2,
     "goles_visitante": 1,
     "estadio": "Ibaiondo",
+    "id_estadio": "6b",
     "estadio_url": "https://www.bdfutbol.com/es/s/6b.html",
     "arbitro": "Arribas Seijas",
+    "id_arbitro": "r600312",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600312.html"
   },
   {
@@ -23,8 +25,10 @@
     "goles_local": 1,
     "goles_visitante": 2,
     "estadio": "Mendizorroza",
+    "id_estadio": "3",
     "estadio_url": "https://www.bdfutbol.com/es/s/3.html",
     "arbitro": "Ostalé",
+    "id_arbitro": "r600350",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600350.html"
   },
   {
@@ -37,8 +41,10 @@
     "goles_local": 3,
     "goles_visitante": 0,
     "estadio": "Sarrià",
+    "id_estadio": "7b",
     "estadio_url": "https://www.bdfutbol.com/es/s/7b.html",
     "arbitro": "Melcón",
+    "id_arbitro": "r10385",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r10385.html"
   },
   {
@@ -51,8 +57,10 @@
     "goles_local": 1,
     "goles_visitante": 3,
     "estadio": "Stadium Gal",
+    "id_estadio": "88",
     "estadio_url": "https://www.bdfutbol.com/es/s/88.html",
     "arbitro": "Escartín",
+    "id_arbitro": "r10180",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r10180.html"
   },
   {
@@ -65,8 +73,10 @@
     "goles_local": 1,
     "goles_visitante": 1,
     "estadio": "Chamartín",
+    "id_estadio": "3b",
     "estadio_url": "https://www.bdfutbol.com/es/s/3b.html",
     "arbitro": "Steimborn Ludvik",
+    "id_arbitro": "r600358",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600358.html"
   },
   {
@@ -79,8 +89,10 @@
     "goles_local": 3,
     "goles_visitante": 2,
     "estadio": "San Mamés",
+    "id_estadio": "6",
     "estadio_url": "https://www.bdfutbol.com/es/s/6.html",
     "arbitro": "Vallana",
+    "id_arbitro": "r11829",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r11829.html"
   },
   {
@@ -93,8 +105,10 @@
     "goles_local": 2,
     "goles_visitante": 2,
     "estadio": "Les Corts",
+    "id_estadio": "83",
     "estadio_url": "https://www.bdfutbol.com/es/s/83.html",
     "arbitro": "Adrados",
+    "id_arbitro": "r600385",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600385.html"
   },
   {
@@ -107,8 +121,10 @@
     "goles_local": 2,
     "goles_visitante": 1,
     "estadio": "El Sardinero",
+    "id_estadio": "29b",
     "estadio_url": "https://www.bdfutbol.com/es/s/29b.html",
     "arbitro": "Balaguer García",
+    "id_arbitro": "r600172",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600172.html"
   },
   {
@@ -121,8 +137,10 @@
     "goles_local": 1,
     "goles_visitante": 2,
     "estadio": "Atocha",
+    "id_estadio": "30b",
     "estadio_url": "https://www.bdfutbol.com/es/s/30b.html",
     "arbitro": "Quintana",
+    "id_arbitro": "r600386",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600386.html"
   },
   {
@@ -135,8 +153,10 @@
     "goles_local": 5,
     "goles_visitante": 1,
     "estadio": "Mestalla",
+    "id_estadio": "36",
     "estadio_url": "https://www.bdfutbol.com/es/s/36.html",
     "arbitro": "Espinosa",
+    "id_arbitro": "r600382",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600382.html"
   },
   {
@@ -149,8 +169,10 @@
     "goles_local": 3,
     "goles_visitante": 1,
     "estadio": "Ibaiondo",
+    "id_estadio": "6b",
     "estadio_url": "https://www.bdfutbol.com/es/s/6b.html",
     "arbitro": "Melcón",
+    "id_arbitro": "r10385",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r10385.html"
   },
   {
@@ -163,8 +185,10 @@
     "goles_local": 1,
     "goles_visitante": 2,
     "estadio": "Mendizorroza",
+    "id_estadio": "3",
     "estadio_url": "https://www.bdfutbol.com/es/s/3.html",
     "arbitro": "Sanchis Orduña",
+    "id_arbitro": "r600318",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600318.html"
   },
   {
@@ -177,8 +201,10 @@
     "goles_local": 0,
     "goles_visitante": 3,
     "estadio": "Sarrià",
+    "id_estadio": "7b",
     "estadio_url": "https://www.bdfutbol.com/es/s/7b.html",
     "arbitro": "Llovera Mas",
+    "id_arbitro": "r600387",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600387.html"
   },
   {
@@ -191,8 +217,10 @@
     "goles_local": 1,
     "goles_visitante": 5,
     "estadio": "Stadium Gal",
+    "id_estadio": "88",
     "estadio_url": "https://www.bdfutbol.com/es/s/88.html",
     "arbitro": "Escartín",
+    "id_arbitro": "r10180",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r10180.html"
   },
   {
@@ -205,8 +233,10 @@
     "goles_local": 1,
     "goles_visitante": 1,
     "estadio": "Mestalla",
+    "id_estadio": "36",
     "estadio_url": "https://www.bdfutbol.com/es/s/36.html",
     "arbitro": "Gumb",
+    "id_arbitro": "r600388",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600388.html"
   },
   {
@@ -219,8 +249,10 @@
     "goles_local": 3,
     "goles_visitante": 0,
     "estadio": "San Mamés",
+    "id_estadio": "6",
     "estadio_url": "https://www.bdfutbol.com/es/s/6.html",
     "arbitro": "Steimborn Ludvik",
+    "id_arbitro": "r600358",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600358.html"
   },
   {
@@ -233,8 +265,10 @@
     "goles_local": 4,
     "goles_visitante": 2,
     "estadio": "Sarrià",
+    "id_estadio": "7b",
     "estadio_url": "https://www.bdfutbol.com/es/s/7b.html",
     "arbitro": "Espinosa",
+    "id_arbitro": "r600382",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600382.html"
   },
   {
@@ -247,8 +281,10 @@
     "goles_local": 2,
     "goles_visitante": 2,
     "estadio": "El Sardinero",
+    "id_estadio": "29b",
     "estadio_url": "https://www.bdfutbol.com/es/s/29b.html",
     "arbitro": "Adrados",
+    "id_arbitro": "r600385",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600385.html"
   },
   {
@@ -261,8 +297,10 @@
     "goles_local": 7,
     "goles_visitante": 1,
     "estadio": "Atocha",
+    "id_estadio": "30b",
     "estadio_url": "https://www.bdfutbol.com/es/s/30b.html",
     "arbitro": "Quintana",
+    "id_arbitro": "r600386",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600386.html"
   },
   {
@@ -275,8 +313,10 @@
     "goles_local": 5,
     "goles_visitante": 0,
     "estadio": "Chamartín",
+    "id_estadio": "3b",
     "estadio_url": "https://www.bdfutbol.com/es/s/3b.html",
     "arbitro": "Insausti",
+    "id_arbitro": "r600379",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600379.html"
   },
   {
@@ -289,8 +329,10 @@
     "goles_local": 2,
     "goles_visitante": 2,
     "estadio": "Ibaiondo",
+    "id_estadio": "6b",
     "estadio_url": "https://www.bdfutbol.com/es/s/6b.html",
     "arbitro": "Arribas Seijas",
+    "id_arbitro": "r600312",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600312.html"
   },
   {
@@ -303,8 +345,10 @@
     "goles_local": 4,
     "goles_visitante": 2,
     "estadio": "Les Corts",
+    "id_estadio": "83",
     "estadio_url": "https://www.bdfutbol.com/es/s/83.html",
     "arbitro": "Balaguer García",
+    "id_arbitro": "r600172",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600172.html"
   },
   {
@@ -317,8 +361,10 @@
     "goles_local": 5,
     "goles_visitante": 0,
     "estadio": "Atocha",
+    "id_estadio": "30b",
     "estadio_url": "https://www.bdfutbol.com/es/s/30b.html",
     "arbitro": "Vallana",
+    "id_arbitro": "r11829",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r11829.html"
   },
   {
@@ -331,8 +377,10 @@
     "goles_local": 0,
     "goles_visitante": 0,
     "estadio": "Mestalla",
+    "id_estadio": "36",
     "estadio_url": "https://www.bdfutbol.com/es/s/36.html",
     "arbitro": "Llovera Mas",
+    "id_arbitro": "r600387",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600387.html"
   },
   {
@@ -345,8 +393,10 @@
     "goles_local": 4,
     "goles_visitante": 1,
     "estadio": "Mendizorroza",
+    "id_estadio": "3",
     "estadio_url": "https://www.bdfutbol.com/es/s/3.html",
     "arbitro": "Insausti",
+    "id_arbitro": "r600379",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600379.html"
   },
   {
@@ -359,8 +409,10 @@
     "goles_local": 5,
     "goles_visitante": 1,
     "estadio": "San Mamés",
+    "id_estadio": "6",
     "estadio_url": "https://www.bdfutbol.com/es/s/6.html",
     "arbitro": "Melcón",
+    "id_arbitro": "r10385",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r10385.html"
   },
   {
@@ -373,8 +425,10 @@
     "goles_local": 6,
     "goles_visitante": 0,
     "estadio": "Les Corts",
+    "id_estadio": "83",
     "estadio_url": "https://www.bdfutbol.com/es/s/83.html",
     "arbitro": "Escartín",
+    "id_arbitro": "r10180",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r10180.html"
   },
   {
@@ -387,8 +441,10 @@
     "goles_local": 4,
     "goles_visitante": 1,
     "estadio": "El Sardinero",
+    "id_estadio": "29b",
     "estadio_url": "https://www.bdfutbol.com/es/s/29b.html",
     "arbitro": "Steimborn Ludvik",
+    "id_arbitro": "r600358",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600358.html"
   },
   {
@@ -401,8 +457,10 @@
     "goles_local": 1,
     "goles_visitante": 0,
     "estadio": "Stadium Gal",
+    "id_estadio": "88",
     "estadio_url": "https://www.bdfutbol.com/es/s/88.html",
     "arbitro": "Adrados",
+    "id_arbitro": "r600385",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600385.html"
   },
   {
@@ -415,8 +473,10 @@
     "goles_local": 3,
     "goles_visitante": 0,
     "estadio": "Chamartín",
+    "id_estadio": "3b",
     "estadio_url": "https://www.bdfutbol.com/es/s/3b.html",
     "arbitro": "Gumb",
+    "id_arbitro": "r600388",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600388.html"
   },
   {
@@ -429,8 +489,10 @@
     "goles_local": 4,
     "goles_visitante": 2,
     "estadio": "Ibaiondo",
+    "id_estadio": "6b",
     "estadio_url": "https://www.bdfutbol.com/es/s/6b.html",
     "arbitro": "Gumb",
+    "id_arbitro": "r600388",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600388.html"
   },
   {
@@ -443,8 +505,10 @@
     "goles_local": 1,
     "goles_visitante": 0,
     "estadio": "Sarrià",
+    "id_estadio": "7b",
     "estadio_url": "https://www.bdfutbol.com/es/s/7b.html",
     "arbitro": "Sanchis Orduña",
+    "id_arbitro": "r600318",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600318.html"
   },
   {
@@ -457,8 +521,10 @@
     "goles_local": 1,
     "goles_visitante": 5,
     "estadio": "Atocha",
+    "id_estadio": "30b",
     "estadio_url": "https://www.bdfutbol.com/es/s/30b.html",
     "arbitro": "Ostalé",
+    "id_arbitro": "r600350",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600350.html"
   },
   {
@@ -471,8 +537,10 @@
     "goles_local": 3,
     "goles_visitante": 2,
     "estadio": "Chamartín",
+    "id_estadio": "3b",
     "estadio_url": "https://www.bdfutbol.com/es/s/3b.html",
     "arbitro": "Quintana",
+    "id_arbitro": "r600386",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600386.html"
   },
   {
@@ -485,8 +553,10 @@
     "goles_local": 0,
     "goles_visitante": 0,
     "estadio": "Mestalla",
+    "id_estadio": "36",
     "estadio_url": "https://www.bdfutbol.com/es/s/36.html",
     "arbitro": "Balaguer García",
+    "id_arbitro": "r600172",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600172.html"
   },
   {
@@ -499,8 +569,10 @@
     "goles_local": 4,
     "goles_visitante": 1,
     "estadio": "San Mamés",
+    "id_estadio": "6",
     "estadio_url": "https://www.bdfutbol.com/es/s/6.html",
     "arbitro": "Elorza",
+    "id_arbitro": "r600383",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600383.html"
   },
   {
@@ -513,8 +585,10 @@
     "goles_local": 2,
     "goles_visitante": 0,
     "estadio": "Les Corts",
+    "id_estadio": "83",
     "estadio_url": "https://www.bdfutbol.com/es/s/83.html",
     "arbitro": "Espinosa",
+    "id_arbitro": "r600382",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600382.html"
   },
   {
@@ -527,8 +601,10 @@
     "goles_local": 2,
     "goles_visitante": 1,
     "estadio": "Mendizorroza",
+    "id_estadio": "3",
     "estadio_url": "https://www.bdfutbol.com/es/s/3.html",
     "arbitro": "Llovera Mas",
+    "id_arbitro": "r600387",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600387.html"
   },
   {
@@ -541,8 +617,10 @@
     "goles_local": 0,
     "goles_visitante": 0,
     "estadio": "El Sardinero",
+    "id_estadio": "29b",
     "estadio_url": "https://www.bdfutbol.com/es/s/29b.html",
     "arbitro": "Insausti",
+    "id_arbitro": "r600379",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600379.html"
   },
   {
@@ -555,8 +633,10 @@
     "goles_local": 4,
     "goles_visitante": 1,
     "estadio": "Stadium Gal",
+    "id_estadio": "88",
     "estadio_url": "https://www.bdfutbol.com/es/s/88.html",
     "arbitro": "Ostalé",
+    "id_arbitro": "r600350",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600350.html"
   },
   {
@@ -569,8 +649,10 @@
     "goles_local": 3,
     "goles_visitante": 2,
     "estadio": "San Mamés",
+    "id_estadio": "6",
     "estadio_url": "https://www.bdfutbol.com/es/s/6.html",
     "arbitro": "Balaguer García",
+    "id_arbitro": "r600172",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600172.html"
   },
   {
@@ -583,8 +665,10 @@
     "goles_local": 2,
     "goles_visitante": 0,
     "estadio": "Sarrià",
+    "id_estadio": "7b",
     "estadio_url": "https://www.bdfutbol.com/es/s/7b.html",
     "arbitro": "Espinosa",
+    "id_arbitro": "r600382",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600382.html"
   },
   {
@@ -597,8 +681,10 @@
     "goles_local": 0,
     "goles_visitante": 2,
     "estadio": "Stadium Gal",
+    "id_estadio": "88",
     "estadio_url": "https://www.bdfutbol.com/es/s/88.html",
     "arbitro": "Adrados",
+    "id_arbitro": "r600385",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600385.html"
   },
   {
@@ -611,8 +697,10 @@
     "goles_local": 2,
     "goles_visitante": 0,
     "estadio": "Chamartín",
+    "id_estadio": "3b",
     "estadio_url": "https://www.bdfutbol.com/es/s/3b.html",
     "arbitro": "Sanchis Orduña",
+    "id_arbitro": "r600318",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600318.html"
   },
   {
@@ -625,8 +713,10 @@
     "goles_local": 3,
     "goles_visitante": 2,
     "estadio": "Mestalla",
+    "id_estadio": "36",
     "estadio_url": "https://www.bdfutbol.com/es/s/36.html",
     "arbitro": "Ostalé",
+    "id_arbitro": "r600350",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600350.html"
   },
   {
@@ -639,8 +729,10 @@
     "goles_local": 3,
     "goles_visitante": 3,
     "estadio": "San Mamés",
+    "id_estadio": "6",
     "estadio_url": "https://www.bdfutbol.com/es/s/6.html",
     "arbitro": "Quintana",
+    "id_arbitro": "r600386",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600386.html"
   },
   {
@@ -653,8 +745,10 @@
     "goles_local": 3,
     "goles_visitante": 2,
     "estadio": "Les Corts",
+    "id_estadio": "83",
     "estadio_url": "https://www.bdfutbol.com/es/s/83.html",
     "arbitro": "Escartín",
+    "id_arbitro": "r10180",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r10180.html"
   },
   {
@@ -667,8 +761,10 @@
     "goles_local": 1,
     "goles_visitante": 1,
     "estadio": "El Sardinero",
+    "id_estadio": "29b",
     "estadio_url": "https://www.bdfutbol.com/es/s/29b.html",
     "arbitro": "Arribas Seijas",
+    "id_arbitro": "r600312",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600312.html"
   },
   {
@@ -681,8 +777,10 @@
     "goles_local": 7,
     "goles_visitante": 0,
     "estadio": "Atocha",
+    "id_estadio": "30b",
     "estadio_url": "https://www.bdfutbol.com/es/s/30b.html",
     "arbitro": "Llovera Mas",
+    "id_arbitro": "r600387",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600387.html"
   },
   {
@@ -695,8 +793,10 @@
     "goles_local": 3,
     "goles_visitante": 1,
     "estadio": "Mestalla",
+    "id_estadio": "36",
     "estadio_url": "https://www.bdfutbol.com/es/s/36.html",
     "arbitro": "Melcón",
+    "id_arbitro": "r10385",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r10385.html"
   },
   {
@@ -709,8 +809,10 @@
     "goles_local": 1,
     "goles_visitante": 3,
     "estadio": "Ibaiondo",
+    "id_estadio": "6b",
     "estadio_url": "https://www.bdfutbol.com/es/s/6b.html",
     "arbitro": "Sanchis Orduña",
+    "id_arbitro": "r600318",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600318.html"
   },
   {
@@ -723,8 +825,10 @@
     "goles_local": 0,
     "goles_visitante": 1,
     "estadio": "Mendizorroza",
+    "id_estadio": "3",
     "estadio_url": "https://www.bdfutbol.com/es/s/3.html",
     "arbitro": "Vallana",
+    "id_arbitro": "r11829",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r11829.html"
   },
   {
@@ -737,8 +841,10 @@
     "goles_local": 1,
     "goles_visitante": 0,
     "estadio": "Chamartín",
+    "id_estadio": "3b",
     "estadio_url": "https://www.bdfutbol.com/es/s/3b.html",
     "arbitro": "Arribas Seijas",
+    "id_arbitro": "r600312",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600312.html"
   },
   {
@@ -751,8 +857,10 @@
     "goles_local": 6,
     "goles_visitante": 1,
     "estadio": "Sarrià",
+    "id_estadio": "7b",
     "estadio_url": "https://www.bdfutbol.com/es/s/7b.html",
     "arbitro": "Insausti",
+    "id_arbitro": "r600379",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600379.html"
   },
   {
@@ -765,8 +873,10 @@
     "goles_local": 3,
     "goles_visitante": 2,
     "estadio": "Stadium Gal",
+    "id_estadio": "88",
     "estadio_url": "https://www.bdfutbol.com/es/s/88.html",
     "arbitro": "Iglesias Gracia",
+    "id_arbitro": "r600363",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600363.html"
   },
   {
@@ -779,8 +889,10 @@
     "goles_local": 2,
     "goles_visitante": 1,
     "estadio": "San Mamés",
+    "id_estadio": "6",
     "estadio_url": "https://www.bdfutbol.com/es/s/6.html",
     "arbitro": "Quintana",
+    "id_arbitro": "r600386",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600386.html"
   },
   {
@@ -793,8 +905,10 @@
     "goles_local": 2,
     "goles_visitante": 2,
     "estadio": "Les Corts",
+    "id_estadio": "83",
     "estadio_url": "https://www.bdfutbol.com/es/s/83.html",
     "arbitro": "Melcón",
+    "id_arbitro": "r10385",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r10385.html"
   },
   {
@@ -807,8 +921,10 @@
     "goles_local": 1,
     "goles_visitante": 1,
     "estadio": "El Sardinero",
+    "id_estadio": "29b",
     "estadio_url": "https://www.bdfutbol.com/es/s/29b.html",
     "arbitro": "Balaguer García",
+    "id_arbitro": "r600172",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600172.html"
   },
   {
@@ -821,8 +937,10 @@
     "goles_local": 4,
     "goles_visitante": 1,
     "estadio": "Atocha",
+    "id_estadio": "30b",
     "estadio_url": "https://www.bdfutbol.com/es/s/30b.html",
     "arbitro": "Ostalé",
+    "id_arbitro": "r600350",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600350.html"
   },
   {
@@ -835,8 +953,10 @@
     "goles_local": 4,
     "goles_visitante": 1,
     "estadio": "Chamartín",
+    "id_estadio": "3b",
     "estadio_url": "https://www.bdfutbol.com/es/s/3b.html",
     "arbitro": "Steimborn Ludvik",
+    "id_arbitro": "r600358",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600358.html"
   },
   {
@@ -849,8 +969,10 @@
     "goles_local": 3,
     "goles_visitante": 2,
     "estadio": "Ibaiondo",
+    "id_estadio": "6b",
     "estadio_url": "https://www.bdfutbol.com/es/s/6b.html",
     "arbitro": "Espinosa",
+    "id_arbitro": "r600382",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600382.html"
   },
   {
@@ -863,8 +985,10 @@
     "goles_local": 1,
     "goles_visitante": 3,
     "estadio": "Les Corts",
+    "id_estadio": "83",
     "estadio_url": "https://www.bdfutbol.com/es/s/83.html",
     "arbitro": "Escartín",
+    "id_arbitro": "r10180",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r10180.html"
   },
   {
@@ -877,8 +1001,10 @@
     "goles_local": 0,
     "goles_visitante": 1,
     "estadio": "Mendizorroza",
+    "id_estadio": "3",
     "estadio_url": "https://www.bdfutbol.com/es/s/3.html",
     "arbitro": "Insausti",
+    "id_arbitro": "r600379",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600379.html"
   },
   {
@@ -891,8 +1017,10 @@
     "goles_local": 2,
     "goles_visitante": 2,
     "estadio": "Stadium Gal",
+    "id_estadio": "88",
     "estadio_url": "https://www.bdfutbol.com/es/s/88.html",
     "arbitro": "Vilalta Bars",
+    "id_arbitro": "r600286",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600286.html"
   },
   {
@@ -905,8 +1033,10 @@
     "goles_local": 4,
     "goles_visitante": 0,
     "estadio": "Mestalla",
+    "id_estadio": "36",
     "estadio_url": "https://www.bdfutbol.com/es/s/36.html",
     "arbitro": "Vallana",
+    "id_arbitro": "r11829",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r11829.html"
   },
   {
@@ -919,8 +1049,10 @@
     "goles_local": 7,
     "goles_visitante": 2,
     "estadio": "San Mamés",
+    "id_estadio": "6",
     "estadio_url": "https://www.bdfutbol.com/es/s/6.html",
     "arbitro": "Comorera Gatuella",
+    "id_arbitro": "r600364",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600364.html"
   },
   {
@@ -933,8 +1065,10 @@
     "goles_local": 4,
     "goles_visitante": 0,
     "estadio": "Sarrià",
+    "id_estadio": "7b",
     "estadio_url": "https://www.bdfutbol.com/es/s/7b.html",
     "arbitro": "Sanchis Orduña",
+    "id_arbitro": "r600318",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600318.html"
   },
   {
@@ -947,8 +1081,10 @@
     "goles_local": 3,
     "goles_visitante": 2,
     "estadio": "El Sardinero",
+    "id_estadio": "29b",
     "estadio_url": "https://www.bdfutbol.com/es/s/29b.html",
     "arbitro": "Vallana",
+    "id_arbitro": "r11829",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r11829.html"
   },
   {
@@ -961,8 +1097,10 @@
     "goles_local": 2,
     "goles_visitante": 0,
     "estadio": "Stadium Gal",
+    "id_estadio": "88",
     "estadio_url": "https://www.bdfutbol.com/es/s/88.html",
     "arbitro": "Gumb",
+    "id_arbitro": "r600388",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600388.html"
   },
   {
@@ -975,8 +1113,10 @@
     "goles_local": 4,
     "goles_visitante": 0,
     "estadio": "Chamartín",
+    "id_estadio": "3b",
     "estadio_url": "https://www.bdfutbol.com/es/s/3b.html",
     "arbitro": "Steimborn Ludvik",
+    "id_arbitro": "r600358",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600358.html"
   },
   {
@@ -989,8 +1129,10 @@
     "goles_local": 5,
     "goles_visitante": 0,
     "estadio": "Ibaiondo",
+    "id_estadio": "6b",
     "estadio_url": "https://www.bdfutbol.com/es/s/6b.html",
     "arbitro": "Quintana",
+    "id_arbitro": "r600386",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600386.html"
   },
   {
@@ -1003,8 +1145,10 @@
     "goles_local": 1,
     "goles_visitante": 3,
     "estadio": "Mendizorroza",
+    "id_estadio": "3",
     "estadio_url": "https://www.bdfutbol.com/es/s/3.html",
     "arbitro": "Ledesma Corredor",
+    "id_arbitro": "r600381",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600381.html"
   },
   {
@@ -1017,8 +1161,10 @@
     "goles_local": 1,
     "goles_visitante": 2,
     "estadio": "Sarrià",
+    "id_estadio": "7b",
     "estadio_url": "https://www.bdfutbol.com/es/s/7b.html",
     "arbitro": "Insausti",
+    "id_arbitro": "r600379",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600379.html"
   },
   {
@@ -1031,8 +1177,10 @@
     "goles_local": 3,
     "goles_visitante": 2,
     "estadio": "Atocha",
+    "id_estadio": "30b",
     "estadio_url": "https://www.bdfutbol.com/es/s/30b.html",
     "arbitro": "Llovera Mas",
+    "id_arbitro": "r600387",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600387.html"
   },
   {
@@ -1045,8 +1193,10 @@
     "goles_local": 6,
     "goles_visitante": 4,
     "estadio": "Mestalla",
+    "id_estadio": "36",
     "estadio_url": "https://www.bdfutbol.com/es/s/36.html",
     "arbitro": "Steimborn Ludvik",
+    "id_arbitro": "r600358",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600358.html"
   },
   {
@@ -1059,8 +1209,10 @@
     "goles_local": 4,
     "goles_visitante": 0,
     "estadio": "San Mamés",
+    "id_estadio": "6",
     "estadio_url": "https://www.bdfutbol.com/es/s/6.html",
     "arbitro": "Escartín",
+    "id_arbitro": "r10180",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r10180.html"
   },
   {
@@ -1073,8 +1225,10 @@
     "goles_local": 3,
     "goles_visitante": 2,
     "estadio": "Les Corts",
+    "id_estadio": "83",
     "estadio_url": "https://www.bdfutbol.com/es/s/83.html",
     "arbitro": "Balaguer García",
+    "id_arbitro": "r600172",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600172.html"
   },
   {
@@ -1087,8 +1241,10 @@
     "goles_local": 3,
     "goles_visitante": 1,
     "estadio": "Mendizorroza",
+    "id_estadio": "3",
     "estadio_url": "https://www.bdfutbol.com/es/s/3.html",
     "arbitro": "González Díaz",
+    "id_arbitro": "r600309",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600309.html"
   },
   {
@@ -1101,8 +1257,10 @@
     "goles_local": 2,
     "goles_visitante": 1,
     "estadio": "El Sardinero",
+    "id_estadio": "29b",
     "estadio_url": "https://www.bdfutbol.com/es/s/29b.html",
     "arbitro": "Adrados",
+    "id_arbitro": "r600385",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600385.html"
   },
   {
@@ -1115,8 +1273,10 @@
     "goles_local": 1,
     "goles_visitante": 1,
     "estadio": "Stadium Gal",
+    "id_estadio": "88",
     "estadio_url": "https://www.bdfutbol.com/es/s/88.html",
     "arbitro": "Vilalta Bars",
+    "id_arbitro": "r600286",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600286.html"
   },
   {
@@ -1129,8 +1289,10 @@
     "goles_local": 2,
     "goles_visitante": 1,
     "estadio": "Ibaiondo",
+    "id_estadio": "6b",
     "estadio_url": "https://www.bdfutbol.com/es/s/6b.html",
     "arbitro": "Gumb",
+    "id_arbitro": "r600388",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600388.html"
   },
   {
@@ -1143,8 +1305,10 @@
     "goles_local": 3,
     "goles_visitante": 1,
     "estadio": "Sarrià",
+    "id_estadio": "7b",
     "estadio_url": "https://www.bdfutbol.com/es/s/7b.html",
     "arbitro": "Montero",
+    "id_arbitro": "r7171",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r7171.html"
   },
   {
@@ -1157,8 +1321,10 @@
     "goles_local": 0,
     "goles_visitante": 1,
     "estadio": "Atocha",
+    "id_estadio": "30b",
     "estadio_url": "https://www.bdfutbol.com/es/s/30b.html",
     "arbitro": "Sanchis Orduña",
+    "id_arbitro": "r600318",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600318.html"
   },
   {
@@ -1171,8 +1337,10 @@
     "goles_local": 0,
     "goles_visitante": 0,
     "estadio": "Chamartín",
+    "id_estadio": "3b",
     "estadio_url": "https://www.bdfutbol.com/es/s/3b.html",
     "arbitro": "Insausti",
+    "id_arbitro": "r600379",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600379.html"
   },
   {
@@ -1185,8 +1353,10 @@
     "goles_local": 5,
     "goles_visitante": 1,
     "estadio": "Mestalla",
+    "id_estadio": "36",
     "estadio_url": "https://www.bdfutbol.com/es/s/36.html",
     "arbitro": "Comorera Gatuella",
+    "id_arbitro": "r600364",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600364.html"
   },
   {
@@ -1199,8 +1369,10 @@
     "goles_local": 4,
     "goles_visitante": 1,
     "estadio": "Ibaiondo",
+    "id_estadio": "6b",
     "estadio_url": "https://www.bdfutbol.com/es/s/6b.html",
     "arbitro": "Quintana",
+    "id_arbitro": "r600386",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600386.html"
   },
   {
@@ -1213,8 +1385,10 @@
     "goles_local": 2,
     "goles_visitante": 2,
     "estadio": "Les Corts",
+    "id_estadio": "83",
     "estadio_url": "https://www.bdfutbol.com/es/s/83.html",
     "arbitro": "Insausti",
+    "id_arbitro": "r600379",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600379.html"
   },
   {
@@ -1227,8 +1401,10 @@
     "goles_local": 1,
     "goles_visitante": 0,
     "estadio": "Mendizorroza",
+    "id_estadio": "3",
     "estadio_url": "https://www.bdfutbol.com/es/s/3.html",
     "arbitro": "Ostalé",
+    "id_arbitro": "r600350",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600350.html"
   },
   {
@@ -1241,8 +1417,10 @@
     "goles_local": 2,
     "goles_visitante": 0,
     "estadio": "El Sardinero",
+    "id_estadio": "29b",
     "estadio_url": "https://www.bdfutbol.com/es/s/29b.html",
     "arbitro": "Arribas Seijas",
+    "id_arbitro": "r600312",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600312.html"
   },
   {
@@ -1255,8 +1433,10 @@
     "goles_local": 5,
     "goles_visitante": 2,
     "estadio": "Atocha",
+    "id_estadio": "30b",
     "estadio_url": "https://www.bdfutbol.com/es/s/30b.html",
     "arbitro": "González Polidura",
+    "id_arbitro": "r600390",
     "arbitro_url": "https://www.bdfutbol.com/es/r/r600390.html"
   }
 ]

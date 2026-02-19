@@ -1,0 +1,12 @@
+{
+  "id_partido": "20825",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=20825",
+  "equipo_local": "Compostela",
+  "equipo_visitante": "Tenerife",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e12.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e35.html",
+  "id_equipo_local": "e12",
+  "id_equipo_visitante": "e35",
+  "resultado_local": 1,
+  "resultado_visitante": 2
+}

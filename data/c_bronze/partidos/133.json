@@ -1,0 +1,12 @@
+{
+  "id_partido": "133",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=133",
+  "equipo_local": "Europa",
+  "equipo_visitante": "Real Madrid",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e89.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e2.html",
+  "id_equipo_local": "e89",
+  "id_equipo_visitante": "e2",
+  "resultado_local": 1,
+  "resultado_visitante": 2
+}

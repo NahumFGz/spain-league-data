@@ -1,0 +1,12 @@
+{
+  "id_partido": "19325",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=19325",
+  "equipo_local": "Lleida",
+  "equipo_visitante": "Osasuna",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e21.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e27.html",
+  "id_equipo_local": "e21",
+  "id_equipo_visitante": "e27",
+  "resultado_local": 1,
+  "resultado_visitante": 2
+}

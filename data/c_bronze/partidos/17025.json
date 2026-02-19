@@ -1,0 +1,12 @@
+{
+  "id_partido": "17025",
+  "url_partido": "https://www.bdfutbol.com/es/p/p.php?id=17025",
+  "equipo_local": "Murcia",
+  "equipo_visitante": "Elche",
+  "url_equipo_local": "https://www.bdfutbol.com/es/e/e40.html",
+  "url_equipo_visitante": "https://www.bdfutbol.com/es/e/e42.html",
+  "id_equipo_local": "e40",
+  "id_equipo_visitante": "e42",
+  "resultado_local": 0,
+  "resultado_visitante": 1
+}
