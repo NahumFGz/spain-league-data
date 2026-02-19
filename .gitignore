@@ -1,8 +1,12 @@
-# Large files and directories
-data/b_staging/estadios_arbitros_partidos/arbitros/
-data/b_staging/estadios_arbitros_partidos/partidos/
-data/b_staging/estadios_arbitros_partidos/estadios/
-data/b_staging/estadios_arbitros_partidos/*.zip
+# HTMLs
+data/a_raw/clasificacion/*.html
+data/a_raw/resultados/*.html
+data/b_staging/estadios_arbitros_partidos/arbitros/*.html
+data/b_staging/estadios_arbitros_partidos/partidos/*.html
+data/b_staging/estadios_arbitros_partidos/estadios/*.html
+
+# Files
+*.zip
 
 # Env
 .env

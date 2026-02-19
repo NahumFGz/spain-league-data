@@ -1,0 +1,517 @@
+[
+  {
+    "id": "1",
+    "nombre": "Camp Nou",
+    "url": "https://www.bdfutbol.com/es/s/1.html"
+  },
+  {
+    "id": "10",
+    "nombre": "Ramón de Carranza",
+    "url": "https://www.bdfutbol.com/es/s/10.html"
+  },
+  {
+    "id": "100354",
+    "nombre": "San Juan",
+    "url": "https://www.bdfutbol.com/es/s/100354.html"
+  },
+  {
+    "id": "10470",
+    "nombre": "El Guinardó",
+    "url": "https://www.bdfutbol.com/es/s/10470.html"
+  },
+  {
+    "id": "11",
+    "nombre": "Balaídos",
+    "url": "https://www.bdfutbol.com/es/s/11.html"
+  },
+  {
+    "id": "12",
+    "nombre": "Multiusos de San Lázaro",
+    "url": "https://www.bdfutbol.com/es/s/12.html"
+  },
+  {
+    "id": "13",
+    "nombre": "Riazor",
+    "url": "https://www.bdfutbol.com/es/s/13.html"
+  },
+  {
+    "id": "13c",
+    "nombre": "Parque de Riazor",
+    "url": "https://www.bdfutbol.com/es/s/13c.html"
+  },
+  {
+    "id": "14",
+    "nombre": "Cornellà-El Prat",
+    "url": "https://www.bdfutbol.com/es/s/14.html"
+  },
+  {
+    "id": "149",
+    "nombre": "Príncipe Felipe",
+    "url": "https://www.bdfutbol.com/es/s/149.html"
+  },
+  {
+    "id": "14b",
+    "nombre": "Patronato Obrero",
+    "url": "https://www.bdfutbol.com/es/s/14b.html"
+  },
+  {
+    "id": "15",
+    "nombre": "Francisco de la Hera",
+    "url": "https://www.bdfutbol.com/es/s/15.html"
+  },
+  {
+    "id": "15b",
+    "nombre": "Buenavista",
+    "url": "https://www.bdfutbol.com/es/s/15b.html"
+  },
+  {
+    "id": "16",
+    "nombre": "Coliseum Alfonso Pérez",
+    "url": "https://www.bdfutbol.com/es/s/16.html"
+  },
+  {
+    "id": "16b",
+    "nombre": "Nervión",
+    "url": "https://www.bdfutbol.com/es/s/16b.html"
+  },
+  {
+    "id": "17",
+    "nombre": "Nou Estadi",
+    "url": "https://www.bdfutbol.com/es/s/17.html"
+  },
+  {
+    "id": "174",
+    "nombre": "Antonio Franco Navarro",
+    "url": "https://www.bdfutbol.com/es/s/174.html"
+  },
+  {
+    "id": "17b",
+    "nombre": "Bardín",
+    "url": "https://www.bdfutbol.com/es/s/17b.html"
+  },
+  {
+    "id": "18",
+    "nombre": "José Rico Pérez",
+    "url": "https://www.bdfutbol.com/es/s/18.html"
+  },
+  {
+    "id": "18b",
+    "nombre": "La Viña",
+    "url": "https://www.bdfutbol.com/es/s/18b.html"
+  },
+  {
+    "id": "19",
+    "nombre": "Estadio de Gran Canaria",
+    "url": "https://www.bdfutbol.com/es/s/19.html"
+  },
+  {
+    "id": "197",
+    "nombre": "Las Margaritas",
+    "url": "https://www.bdfutbol.com/es/s/197.html"
+  },
+  {
+    "id": "2",
+    "nombre": "Nuevo Chamartín",
+    "url": "https://www.bdfutbol.com/es/s/2.html"
+  },
+  {
+    "id": "20",
+    "nombre": "Ciutat de València",
+    "url": "https://www.bdfutbol.com/es/s/20.html"
+  },
+  {
+    "id": "21",
+    "nombre": "Camp d'Esports",
+    "url": "https://www.bdfutbol.com/es/s/21.html"
+  },
+  {
+    "id": "23",
+    "nombre": "La Rosaleda",
+    "url": "https://www.bdfutbol.com/es/s/23.html"
+  },
+  {
+    "id": "24",
+    "nombre": "Son Moix",
+    "url": "https://www.bdfutbol.com/es/s/24.html"
+  },
+  {
+    "id": "24b",
+    "nombre": "Luis Sitjar",
+    "url": "https://www.bdfutbol.com/es/s/24b.html"
+  },
+  {
+    "id": "25",
+    "nombre": "Municipal de Mérida",
+    "url": "https://www.bdfutbol.com/es/s/25.html"
+  },
+  {
+    "id": "26",
+    "nombre": "Los Pajaritos",
+    "url": "https://www.bdfutbol.com/es/s/26.html"
+  },
+  {
+    "id": "27",
+    "nombre": "El Sadar",
+    "url": "https://www.bdfutbol.com/es/s/27.html"
+  },
+  {
+    "id": "28",
+    "nombre": "Carlos Tartiere",
+    "url": "https://www.bdfutbol.com/es/s/28.html"
+  },
+  {
+    "id": "29",
+    "nombre": "El Sardinero",
+    "url": "https://www.bdfutbol.com/es/s/29.html"
+  },
+  {
+    "id": "29b",
+    "nombre": "El Sardinero",
+    "url": "https://www.bdfutbol.com/es/s/29b.html"
+  },
+  {
+    "id": "2b",
+    "nombre": "Montjuïc",
+    "url": "https://www.bdfutbol.com/es/s/2b.html"
+  },
+  {
+    "id": "3",
+    "nombre": "Mendizorroza",
+    "url": "https://www.bdfutbol.com/es/s/3.html"
+  },
+  {
+    "id": "30",
+    "nombre": "Anoeta",
+    "url": "https://www.bdfutbol.com/es/s/30.html"
+  },
+  {
+    "id": "30b",
+    "nombre": "Atocha",
+    "url": "https://www.bdfutbol.com/es/s/30b.html"
+  },
+  {
+    "id": "31",
+    "nombre": "Nuevo Colombino",
+    "url": "https://www.bdfutbol.com/es/s/31.html"
+  },
+  {
+    "id": "318",
+    "nombre": "Miniestadi",
+    "url": "https://www.bdfutbol.com/es/s/318.html"
+  },
+  {
+    "id": "31b",
+    "nombre": "Avenida de Cataluña",
+    "url": "https://www.bdfutbol.com/es/s/31b.html"
+  },
+  {
+    "id": "31c",
+    "nombre": "Municipal de Deportes",
+    "url": "https://www.bdfutbol.com/es/s/31c.html"
+  },
+  {
+    "id": "32",
+    "nombre": "Helmántico",
+    "url": "https://www.bdfutbol.com/es/s/32.html"
+  },
+  {
+    "id": "33",
+    "nombre": "Ramón Sánchez-Pizjuán",
+    "url": "https://www.bdfutbol.com/es/s/33.html"
+  },
+  {
+    "id": "34",
+    "nombre": "El Molinón",
+    "url": "https://www.bdfutbol.com/es/s/34.html"
+  },
+  {
+    "id": "34b",
+    "nombre": "El Choperal",
+    "url": "https://www.bdfutbol.com/es/s/34b.html"
+  },
+  {
+    "id": "35",
+    "nombre": "Heliodoro Rodríguez López",
+    "url": "https://www.bdfutbol.com/es/s/35.html"
+  },
+  {
+    "id": "358",
+    "nombre": "El Arcángel",
+    "url": "https://www.bdfutbol.com/es/s/358.html"
+  },
+  {
+    "id": "35b",
+    "nombre": "Insular",
+    "url": "https://www.bdfutbol.com/es/s/35b.html"
+  },
+  {
+    "id": "36",
+    "nombre": "Mestalla",
+    "url": "https://www.bdfutbol.com/es/s/36.html"
+  },
+  {
+    "id": "37",
+    "nombre": "José Zorrilla",
+    "url": "https://www.bdfutbol.com/es/s/37.html"
+  },
+  {
+    "id": "37c",
+    "nombre": "Zorrilla",
+    "url": "https://www.bdfutbol.com/es/s/37c.html"
+  },
+  {
+    "id": "38",
+    "nombre": "El Madrigal",
+    "url": "https://www.bdfutbol.com/es/s/38.html"
+  },
+  {
+    "id": "387",
+    "nombre": "Domecq",
+    "url": "https://www.bdfutbol.com/es/s/387.html"
+  },
+  {
+    "id": "39",
+    "nombre": "La Romareda",
+    "url": "https://www.bdfutbol.com/es/s/39.html"
+  },
+  {
+    "id": "3b",
+    "nombre": "Chamartín",
+    "url": "https://www.bdfutbol.com/es/s/3b.html"
+  },
+  {
+    "id": "4",
+    "nombre": "Carlos Belmonte",
+    "url": "https://www.bdfutbol.com/es/s/4.html"
+  },
+  {
+    "id": "40",
+    "nombre": "Nueva Condomina",
+    "url": "https://www.bdfutbol.com/es/s/40.html"
+  },
+  {
+    "id": "40b",
+    "nombre": "La Condomina",
+    "url": "https://www.bdfutbol.com/es/s/40b.html"
+  },
+  {
+    "id": "41",
+    "nombre": "Castalia",
+    "url": "https://www.bdfutbol.com/es/s/41.html"
+  },
+  {
+    "id": "41b",
+    "nombre": "Nou Castalia",
+    "url": "https://www.bdfutbol.com/es/s/41b.html"
+  },
+  {
+    "id": "42",
+    "nombre": "Nuevo Estadio",
+    "url": "https://www.bdfutbol.com/es/s/42.html"
+  },
+  {
+    "id": "422",
+    "nombre": "Camilo Cano",
+    "url": "https://www.bdfutbol.com/es/s/422.html"
+  },
+  {
+    "id": "42b",
+    "nombre": "Altabix",
+    "url": "https://www.bdfutbol.com/es/s/42b.html"
+  },
+  {
+    "id": "43",
+    "nombre": "Estadio de los Juegos Mediterráneos",
+    "url": "https://www.bdfutbol.com/es/s/43.html"
+  },
+  {
+    "id": "438",
+    "nombre": "Vallejo",
+    "url": "https://www.bdfutbol.com/es/s/438.html"
+  },
+  {
+    "id": "439",
+    "nombre": "Las Gaunas",
+    "url": "https://www.bdfutbol.com/es/s/439.html"
+  },
+  {
+    "id": "44",
+    "nombre": "La Creu Alta",
+    "url": "https://www.bdfutbol.com/es/s/44.html"
+  },
+  {
+    "id": "440",
+    "nombre": "El Sequiol",
+    "url": "https://www.bdfutbol.com/es/s/440.html"
+  },
+  {
+    "id": "445",
+    "nombre": "Torrero",
+    "url": "https://www.bdfutbol.com/es/s/445.html"
+  },
+  {
+    "id": "44b",
+    "nombre": "Creu Alta",
+    "url": "https://www.bdfutbol.com/es/s/44b.html"
+  },
+  {
+    "id": "45b",
+    "nombre": "El Vivero",
+    "url": "https://www.bdfutbol.com/es/s/45b.html"
+  },
+  {
+    "id": "46",
+    "nombre": "Nuevo Arcángel",
+    "url": "https://www.bdfutbol.com/es/s/46.html"
+  },
+  {
+    "id": "47",
+    "nombre": "Ipurua",
+    "url": "https://www.bdfutbol.com/es/s/47.html"
+  },
+  {
+    "id": "49",
+    "nombre": "La Victoria",
+    "url": "https://www.bdfutbol.com/es/s/49.html"
+  },
+  {
+    "id": "5",
+    "nombre": "Estadio de Vallecas",
+    "url": "https://www.bdfutbol.com/es/s/5.html"
+  },
+  {
+    "id": "50",
+    "nombre": "Butarque",
+    "url": "https://www.bdfutbol.com/es/s/50.html"
+  },
+  {
+    "id": "53",
+    "nombre": "Chapín",
+    "url": "https://www.bdfutbol.com/es/s/53.html"
+  },
+  {
+    "id": "58",
+    "nombre": "Pasarón",
+    "url": "https://www.bdfutbol.com/es/s/58.html"
+  },
+  {
+    "id": "59",
+    "nombre": "Nuevo Los Cármenes",
+    "url": "https://www.bdfutbol.com/es/s/59.html"
+  },
+  {
+    "id": "59b",
+    "nombre": "Los Cármenes",
+    "url": "https://www.bdfutbol.com/es/s/59b.html"
+  },
+  {
+    "id": "5b",
+    "nombre": "Vallecas",
+    "url": "https://www.bdfutbol.com/es/s/5b.html"
+  },
+  {
+    "id": "6",
+    "nombre": "San Mamés",
+    "url": "https://www.bdfutbol.com/es/s/6.html"
+  },
+  {
+    "id": "61",
+    "nombre": "Alfredo Di Stéfano",
+    "url": "https://www.bdfutbol.com/es/s/61.html"
+  },
+  {
+    "id": "6b",
+    "nombre": "Ibaiondo",
+    "url": "https://www.bdfutbol.com/es/s/6b.html"
+  },
+  {
+    "id": "6c",
+    "nombre": "San Mamés",
+    "url": "https://www.bdfutbol.com/es/s/6c.html"
+  },
+  {
+    "id": "7",
+    "nombre": "Estadio de Madrid",
+    "url": "https://www.bdfutbol.com/es/s/7.html"
+  },
+  {
+    "id": "71",
+    "nombre": "Johan Cruyff",
+    "url": "https://www.bdfutbol.com/es/s/71.html"
+  },
+  {
+    "id": "77",
+    "nombre": "Vilatenim",
+    "url": "https://www.bdfutbol.com/es/s/77.html"
+  },
+  {
+    "id": "78",
+    "nombre": "Montilivi",
+    "url": "https://www.bdfutbol.com/es/s/78.html"
+  },
+  {
+    "id": "79",
+    "nombre": "El Alcoraz",
+    "url": "https://www.bdfutbol.com/es/s/79.html"
+  },
+  {
+    "id": "7b",
+    "nombre": "Sarrià",
+    "url": "https://www.bdfutbol.com/es/s/7b.html"
+  },
+  {
+    "id": "7c",
+    "nombre": "Manzanares",
+    "url": "https://www.bdfutbol.com/es/s/7c.html"
+  },
+  {
+    "id": "8",
+    "nombre": "La Exposición",
+    "url": "https://www.bdfutbol.com/es/s/8.html"
+  },
+  {
+    "id": "83",
+    "nombre": "Les Corts",
+    "url": "https://www.bdfutbol.com/es/s/83.html"
+  },
+  {
+    "id": "84b",
+    "nombre": "El Ejido",
+    "url": "https://www.bdfutbol.com/es/s/84b.html"
+  },
+  {
+    "id": "84c",
+    "nombre": "La Puentecilla",
+    "url": "https://www.bdfutbol.com/es/s/84c.html"
+  },
+  {
+    "id": "85",
+    "nombre": "Sania Ramel",
+    "url": "https://www.bdfutbol.com/es/s/85.html"
+  },
+  {
+    "id": "86",
+    "nombre": "El Collao",
+    "url": "https://www.bdfutbol.com/es/s/86.html"
+  },
+  {
+    "id": "88",
+    "nombre": "Stadium Gal",
+    "url": "https://www.bdfutbol.com/es/s/88.html"
+  },
+  {
+    "id": "8b",
+    "nombre": "Metropolitano",
+    "url": "https://www.bdfutbol.com/es/s/8b.html"
+  },
+  {
+    "id": "8c",
+    "nombre": "La Cartuja",
+    "url": "https://www.bdfutbol.com/es/s/8c.html"
+  },
+  {
+    "id": "9",
+    "nombre": "El Plantío",
+    "url": "https://www.bdfutbol.com/es/s/9.html"
+  }
+]
